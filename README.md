@@ -8,3 +8,14 @@ This is just one of many ways to analyse securities and was an interesting proje
 
 <img src="./CAPM_Slide1.png">
 
+<img src="./CAPM_Slide2.png">
+
+<img src="./CAPM_Slide3.png">
+
+<img src="./CAPM_Slide4_updated.png">
+
+<img src="./CAPM_Slide5.png">
+
+<img src="./CAPM_Slide6.png">
+
+<img src="./CAPM_Slide7.png">
