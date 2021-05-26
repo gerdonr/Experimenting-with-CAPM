@@ -1,5 +1,7 @@
 # Experimenting-with-CAPM
 
+This project and the images below come from the Udemy Python and Machine Learning for Financial Analysis Course. 
+
 GOAL: Compare stock performance over time by using the Capital Asset Pricing Model.
 CAPM describes the relationship between expected return and risk.
 We'll also compare the results of different allocation amounts among the chosen stocks in the portfolio.
